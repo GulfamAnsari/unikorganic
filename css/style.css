@@ -1,0 +1,561 @@
+/*----------------------------------------------------Body----------------------------------------------------*/
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+i,
+span {
+  font-family: "heebo";
+  text-transform: none;
+  font-weight: 400;
+  font-style: normal;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transition: opacity 0.24s ease-in-out;
+  -moz-transition: opacity 0.24s ease-in-out;
+  transition: opacity 0.24s ease-in-out;
+}
+strong {
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 32px;
+}
+
+h2 {
+  font-size: 28px;
+}
+
+h3 {
+  font-size: 25px;
+}
+
+h4 {
+  font-size: 22px;
+}
+
+h5 {
+  font-size: 19px;
+}
+
+h6 {
+  font-size: 17px;
+}
+
+p {
+  line-height: 27px;
+  font-size: 18px;
+  font-family: "heebo";
+  color: #6a6868;
+  font-weight: 400;
+}
+@media screen and (max-width: 880px) {
+  .h1,
+  .h2,
+  .h3,
+  .h4,
+  .h5,
+  .h6,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    line-height: 32px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+
+  h3 {
+    font-size: 17px;
+  }
+
+  h4 {
+    font-size: 16px;
+  }
+
+  h5 {
+    font-size: 14px;
+  }
+
+  h6 {
+    font-size: 13px;
+  }
+
+  p {
+    font-size: 16px;
+    line-height: 22px;
+  }
+}
+
+body {
+  position: relative;
+  background-color: #f6f7f7;
+}
+
+/* header */
+header {
+  background: #40a105;
+  padding: 4px;
+}
+
+header > div > div > span {
+  color: #f6f7f7;
+  padding: 0 8px;
+}
+header > div > div > span > a {
+  color: #f6f7f7;
+  text-decoration: none;
+}
+
+header > div > .hedaer-contact > span {
+  border-right: #6a6868 solid 1px;
+}
+
+header > div > .header-social-icon > span {
+  border-left: #6a6868 solid 1px;
+  cursor: pointer;
+}
+
+header > div > .header-social-icon {
+  text-align: end;
+}
+
+@media (max-width: 768px) {
+  header > div > .header-social-icon {
+    text-align: center;
+  }
+  header > div > .hedaer-contact {
+    text-align: center;
+  }
+  header > div > .hedaer-contact > span,
+  header > div > .header-social-icon > span {
+    border: none;
+  }
+
+  header > div > div > span {
+    padding: 4px;
+  }
+}
+
+/*Navigation bar*/
+.navbar {
+  margin-bottom: 0;
+  border: none;
+  border-radius: 0;
+  background: #f6f7f7;
+  padding: 16px 0;
+}
+
+.navbar-nav {
+  float: right;
+}
+
+/* This is predefiend navigation bar padding */
+
+.navbar .navbar-header .navbar-toggle {
+  border: none;
+  color: white;
+}
+
+nav #myNavbar ul li a {
+  font-family: "heebo";
+  font-size: 14px;
+  font-weight: 700;
+  text-transform: uppercase;
+  box-sizing: border-box;
+  cursor: pointer;
+  color: #0e1a06;
+}
+
+nav #myNavbar ul li a:hover {
+  color: #40a105;
+}
+
+@media (max-width: 1018px) and (min-width: 768px) {
+  nav #myNavbar ul li a {
+    font-size: 11px;
+  }
+}
+
+nav #myNavbar ul li button {
+  color: black;
+  border: none;
+  outline: none;
+  padding-top: 15px;
+}
+
+nav #myNavbar ul li a:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  bottom: 1px;
+  width: 0;
+  transition: 0.4s;
+}
+
+nav #myNavbar ul li a:hover:after {
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .navbar {
+    padding: 0;
+    background: #40a105;
+  }
+
+  .navbar-nav {
+    float: left;
+  }
+}
+
+/* drop down */
+
+/* Dropdown*/
+.dropdown {
+  position: absolute;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  left: -30px;
+  border: none;
+  background-color: white;
+  min-width: 200px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  z-index: 9999;
+}
+
+.dropdown-content a {
+  color: white;
+  text-decoration: none;
+  display: block;
+  padding: 10px 5px;
+}
+
+nav #myNavbar ul li .dropdown-content a:hover:after {
+  width: 0;
+}
+
+.dropdown-content a:hover {
+  color: #40a105;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+@media screen and (max-width: 780px) {
+  .dropdown-content {
+    position: relative;
+    display: none;
+    left: 0;
+    background-color: #f09548;
+    min-width: 100%;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0);
+    outline: none;
+    border: none;
+  }
+
+  .dropdown-content a {
+    padding: 10px 5px 10px 35px;
+  }
+}
+
+/* slider */
+#carousel {
+  margin: 0;
+  padding: 0px;
+  line-height: 20px;
+  color: #000;
+  position: relative;
+  width: 100% !important;
+}
+
+img {
+  width: 100%;
+}
+
+#carousel {
+  position: relative;
+  overflow: hidden;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#carousel ul {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 400px;
+}
+
+#carousel ul li {
+  position: relative;
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 1024px;
+  height: 400px;
+}
+
+#carousel .prevarrow,
+#carousel .nextarrow {
+  position: absolute;
+  top: 50%;
+  z-index: 999;
+  display: block;
+  width: 50px;
+  height: 50px;
+  padding: 14px 0;
+  margin-top: -25px;
+  background: #2a2a2a;
+  color: #fff;
+  text-decoration: none;
+  font-size: 30px;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+#carousel .nextarrow {
+  right: 0;
+}
+
+#carousel .nextarrow:hover,
+#carousel .prevarrow:hover {
+  background: #4f1a3a;
+  color: #fff;
+}
+
+/*Footer*/
+footer {
+  background-color: #2f313e;
+}
+
+footer .col-sm-6 {
+  padding: 15px 10% 0 0;
+}
+
+footer .col-sm-3 {
+  padding: 15px 0 0;
+}
+
+footer img {
+  padding-top: 45px;
+}
+
+footer p {
+  color: #d6d4d3;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+footer h3 {
+  color: #40a105;
+  font-size: 16px;
+  margin: 10px 0 22px;
+}
+
+footer h3::after {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  height: 15px;
+  margin: 0 0 0 6px;
+  top: 25px;
+  width: 83%;
+  background: url(http://4bp.blogspot.com/-R2WTW6O9E1o/VX7dqIGT1eI/AAAAAAAACc4/pyvQDMMLX3E/s1600/repeat-bg.png) repeat;
+  opacity: 0.7;
+}
+
+footer .web {
+  margin: 22px 0 0;
+}
+
+footer .webTool::after {
+  width: 58%;
+}
+
+footer h3 i {
+  padding: 0 5px 0 0;
+}
+
+footer ul li {
+  color: #d6d4d3;
+  list-style-type: square;
+}
+
+footer ul li a {
+  color: #d6d4d3;
+}
+
+footer ul li a:hover {
+  color: #40a105;
+  text-decoration: none;
+}
+
+footer ul li a i {
+  background-color: #40a105;
+  color: white;
+  transition: transform 0.2s;
+  border: none;
+}
+
+footer .subscribe {
+  margin: auto;
+  text-align: center;
+}
+
+footer .subscribe form {
+  margin: 0;
+  padding: 0;
+}
+
+footer .subscribe input,
+footer .unSubscribe input {
+  background: rgba(255, 255, 255, 1);
+  padding: 9px 12px;
+  color: #999;
+  font-size: 14px;
+  margin-bottom: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.14);
+  transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+}
+
+footer .subscribe .submit {
+  background: #2f6a18;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  border-radius: 3px;
+  transition: all 0.3s;
+  border-radius: 0;
+}
+
+footer .subFooter {
+  background-color: #252632;
+}
+
+footer .subFooter .col-sm-6 {
+  padding: 10px 0 0;
+}
+
+footer .subFooter .subContaint a {
+  text-decoration: none;
+  color: white;
+  padding: 0 5px;
+}
+
+footer ul .inline-list {
+  margin: 14px 0 12px;
+}
+@media screen and (max-width: 780px) {
+  footer img {
+    margin: auto;
+  }
+
+  footer .col-sm-3,
+  footer .col-sm-6,
+  footer .subFooter .col-sm-6 {
+    text-align: center;
+  }
+
+  footer ul li {
+    list-style-type: none;
+  }
+
+  footer .web {
+    margin: 22px 0 0 -40px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  footer h3::after {
+    width: 0;
+  }
+
+  footer .webTool::after {
+    width: 0;
+  }
+}
+
+.successMessage {
+  background-color: #0aa40a;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99999;
+  font-size: 16px;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+.failMessage {
+  background-color: #d9534f;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99999;
+  font-size: 16px;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  width: 100%;
+}
+
+.failMessage,
+.successMessage {
+  -webkit-animation: seconds 1s forwards;
+  -webkit-animation-iteration-count: 1;
+  -webkit-animation-delay: 3s;
+  animation: seconds 1s forwards;
+  animation-iteration-count: 1;
+  animation-delay: 3s;
+}
+@-webkit-keyframes seconds {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    left: -9999px;
+  }
+}
+@keyframes seconds {
+  0% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    left: -9999px;
+  }
+}
