@@ -11,6 +11,7 @@
         </div>
         <div>
             <div class="collapse navbar-collapse" id="myNavbar">
+                <img src="/images/logo.jpeg" class="logo" alt="logo">
                 <ul class="nav navbar-nav">
                     <li><a href="/">Home</a></li>
                     <li class="dropdown"><a href="#" class="dropbtn" title="Products">Products <i data-toggle="dropdown" class=" dropdown-toggle fa fa-angle-down how-drop" style="font-size:125%" aria-hidden="true"></i></a>

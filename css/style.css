@@ -57,13 +57,16 @@ h6 {
   font-size: 17px;
 }
 
-p {
+p,
+ol li,
+ul li {
   line-height: 27px;
   font-size: 17px;
   font-family: "heebo";
   color: #6a6868;
   font-weight: 400;
 }
+
 @media screen and (max-width: 880px) {
   .h1,
   .h2,
@@ -104,7 +107,9 @@ p {
     font-size: 13px;
   }
 
-  p {
+  p,
+  ol li,
+  ul li {
     font-size: 15px;
     line-height: 22px;
   }
@@ -221,6 +226,13 @@ nav #myNavbar ul li a:hover:after {
   width: 100%;
 }
 
+.logo {
+  float: left;
+  width: 6rem;
+  height: 6rem;
+  border-radius: 50%;
+}
+
 @media (max-width: 768px) {
   .navbar {
     padding: 0;
@@ -229,6 +241,13 @@ nav #myNavbar ul li a:hover:after {
 
   .navbar-nav {
     float: left;
+  }
+  .logo {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    height: 4rem;
+    width: 4rem;
   }
 }
 
