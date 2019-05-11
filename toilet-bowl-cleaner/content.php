@@ -1,65 +1,68 @@
 <!-- main body -->
 <div class="container">
-    <div class="col-md-9">
+    <div class="col-md-12">
         <h1>Toilet Bowl Cleaner</h1>
         <hr>
-        <h4>Product Details:</h4>
-        <table class="table table-bordered">
-            <thead>
-                <tr>
-                    <th>
-                        <p>Brand</p>
-                    </th>
-                    <th>
-                        <p>Pack Size (litres)</p>
-                    </th>
-                    <th>
-                        <p>Pack Type</p>
-                    </th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>
-                        <p>Sparklean</p>
-                    </td>
-                    <td>
-                        <p>Customized</p>
-                    </td>
-                    <td>
-                        <p>Plastic Bottle</p>
-                    </td>
-                </tr>
-            </tbody>
-        </table>
-        <ol>
-            <li>
-                <p>Net Content: 5 Litre</p>
-            </li>
-            <li>
-                <p>Best Before: 2 Years from the date of manufacturing</p>
-            </li>
-            <li>
-                <p>Application: Directly apply on Toilet bolls</p>
-            </li>
-            <li>
-                <p>Dilutions: Ready to use</p>
-            </li>
-        </ol>
-        <br>
-        <h4>Benefits:</h4>
-        <ol>
-            <li>
-                <p>Ideally Formulated for Exteneded Contact time</p>
-            </li>
-            <li>
-                <p>Squeeze Bottle with Directional Spout Makes it Easy and Fast.</p>
-            </li>
-        </ol>
-        <br>
-        <h4>Additional Information:</h4>
-        <p>Item Code: S4T</p>
-    </div>
-    <div class="col-md-3">
+        <div class="col-md-9">
+            <h4>Product Details:</h4>
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>
+                            <p>Brand</p>
+                        </th>
+                        <th>
+                            <p>Pack Size (litres)</p>
+                        </th>
+                        <th>
+                            <p>Pack Type</p>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                            <p>Sparklean</p>
+                        </td>
+                        <td>
+                            <p>Customized</p>
+                        </td>
+                        <td>
+                            <p>Plastic Bottle</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <ol>
+                <li>
+                    <p>Net Content: 5 Litre</p>
+                </li>
+                <li>
+                    <p>Best Before: 2 Years from the date of manufacturing</p>
+                </li>
+                <li>
+                    <p>Application: Directly apply on Toilet bolls</p>
+                </li>
+                <li>
+                    <p>Dilutions: Ready to use</p>
+                </li>
+            </ol>
+            <br>
+            <h4>Benefits:</h4>
+            <ol>
+                <li>
+                    <p>Ideally Formulated for Exteneded Contact time</p>
+                </li>
+                <li>
+                    <p>Squeeze Bottle with Directional Spout Makes it Easy and Fast.</p>
+                </li>
+            </ol>
+            <br>
+            <h4>Additional Information:</h4>
+            <p>Item Code: S4T</p>
+        </div>
+        <div class="col-md-3">
+            <img src="/images/glass-cleaner.jpeg" alt="glass clenaer" style="margin: auto" class="img img-responsive">
+        </div>
     </div>
 </div>
