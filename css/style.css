@@ -311,7 +311,7 @@ img {
   position: relative;
   margin: 0;
   padding: 0;
-  height: 400px;
+  height: 100%;
 }
 
 #carousel ul li {
@@ -320,8 +320,8 @@ img {
   float: left;
   margin: 0;
   padding: 0;
-  width: 1024px;
-  height: 400px;
+  width: 100%;
+  height: 100%;
 }
 
 #carousel .prevarrow,
@@ -352,13 +352,24 @@ img {
   color: #fff;
 }
 
+@media screen and (max-width: 780px) {
+  #carousel .prevarrow,
+  #carousel .nextarrow {
+    width: 25px;
+    height: 25px;
+    padding: 0px 0;
+    font-size: 16px;
+    top: 60%;
+  }
+}
+
 /*Footer*/
 footer {
   background-color: #2f313e;
 }
 
 footer .col-sm-6 {
-  padding: 15px 16px 0 16px
+  padding: 15px 16px 0 16px;
 }
 
 footer .col-sm-3 {

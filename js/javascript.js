@@ -12,8 +12,8 @@ jQuery(document).ready(function ($) {
         height: slideHeight
     });
     $('#carousel ul').css({
-        width: sliderUlWidth,
-        marginLeft: -slideWidth
+        width: '100%',
+        marginLeft: 0
     });
 
     //this keeps all the images in order, essentially hiding the ones that arent showing until its their turn to show up and it makes sure no images are skipped.the number controls how fast the images slide to the left. this code also affects the left arrow because the prepend function allows the carousel to go backwards to the image before the image shown. (it like tries to go back but just ends up going back to the same image you were on)
