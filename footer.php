@@ -17,19 +17,22 @@
             <h3>Our Products</h3>
             <ul class="web">
                 <p>
-                    <li><a href="/products/glass-cleaner.php" title="DroidTechKnow Contact us">Glass Cleaner</a></li>
+                    <li><a href="/products/glass-cleaner.php" title="">Glass Cleaner</a></li>
                 </p>
                 <p>
-                    <li><a href="/products/hand-wash.php" title="DroidTechKnow Privacy Policy">Hand Wash</a></li>
+                    <li><a href="/products/hand-wash.php" title="">Hand Wash</a></li>
                 </p>
                 <p>
-                    <li><a href="/products/dish-wash-gel.php" title="DroidTechKnow About">Dish Wash Gel</a></li>
+                    <li><a href="/products/dish-wash-gel.php" title="">Dish Wash Gel</a></li>
                 </p>
                 <p>
-                    <li><a href="/products/multi-purpose-cleaner.php" title="DroidTechKnow About">Multi Purpose Cleaner</a></li>
+                    <li><a href="/products/multi-purpose-cleaner.php" title="">Multi Purpose Cleaner</a></li>
                 </p>
                 <p>
-                    <li><a href="/products/floor-cleaner-neem-phenyl.php" title="DroidTechKnow About">Floor Cleaner Neem Phenyl</a></li>
+                    <li><a href="/products/floor-cleaner-neem-phenyl.php" title="">Floor Cleaner Neem Phenyl</a></li>
+                </p>
+                <p>
+                    <li><a href="/products" title="">More Products</a></li>
                 </p>
             </ul>
         </div>

@@ -21,6 +21,7 @@
                             <a href="/products/dish-wash-gel.php" >Dish Wash Gel</a>
                             <a href="/products/multi-purpose-cleaner.php" >Multi Purpose Cleaner</a>
                             <a href="/products/floor-cleaner-neem-phenyl.php" >Floor Cleaner Neem Phenyl</a>
+                            <a href="/products" >More Products</a>
                         </div>
                     </li>
                     <li><a href="/career">Career</a></li>
