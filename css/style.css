@@ -596,6 +596,7 @@ footer ul .inline-list {
 .products {
   border: solid 0.5px rgb(236, 235, 235);
   cursor: pointer;
+  padding: 1px;
   /* box-shadow: 0 0 4px -1px #467448, 0 0 0 0 rgba(120, 0, 0, 0); */
 }
 
