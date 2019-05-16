@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>UnikOrganic - Dish Wash Gel</title>
+    <title>UnikOrganic - Carpet Cleaner</title>
     <?php include($_SERVER['DOCUMENT_ROOT'] . '/head.php'); ?>
 </head>
 
@@ -12,7 +12,7 @@
     <!-- main body -->
     <div class="container">
         <div class="col-md-12">
-            <h1>Dish Wash Gel</h1>
+            <h1>Carpet Cleaner</h1>
             <hr>
             <div class="col-md-9">
                 <h4>Product Details:</h4>
@@ -36,7 +36,7 @@
                                 <p>Sparklean</p>
                             </td>
                             <td>
-                                <p>250 ml</p>
+                                <p>Customized</p>
                             </td>
                             <td>
                                 <p>Bottle</p>
@@ -45,50 +45,54 @@
                     </tbody>
                 </table>
 
+                <p>With the help of progressive facility, we are accomplished to provide Carpet Cleaner. Furthermore, we provide customized options to cater the diverse demands of our clientele.</p>
                 <ol>
                     <li>
-                        <p>Net Content: 250ml</p>
+                        <p>Applications: Used for Cleaning Spot Removing on Carpet, Sofa.</p>
+                    </li>
+                    <li>
+                        <p>Composition: Surfactants - 15%, Sodium Chloride - 0.02°/0, Perfume 13,3%, Aqua - 84%.</p>
+                    </li>
+                    <li>
+                        <p>Dosage: 50m1 for 1 Ltr. Respective.</p>
+                    </li>
+                    <li>
+                        <p>Net Content: 5 Litre</p>
                     </li>
                     <li>
                         <p>Best Before: 2 Years from the date of manufacturing</p>
-                    </li>
-                    <li>
-                        <p>Utensils 4plications: Used Crookery Cutlery, Stainless Steel Appliances.</p>
-                    </li>
-                    <li>
-                        <p>Composition. Non Ionic Polymer 15°/c, Ammonium Hydrogen Flouride 15 Al,</p>
-                    </li>
-                    <li>
-                        <p>Blend Of Quaternary Ammonium Compound 6%</p>
                     </li>
                 </ol>
                 <br>
                 <h4>Features:</h4>
                 <ol>
                     <li>
-                        <p>Accurate composition</p>
+                        <p>Precise formulation</p>
                     </li>
                     <li>
-                        <p>Various forms available</p>
+                        <p>Eco-friendliness</p>
                     </li>
                 </ol>
                 <br>
                 <h4>Benefits:</h4>
                 <ol>
                     <li>
-                        <p>Improves Sudsing Ninse Ability.</p>
+                        <p>Concentrated For Economical Use.</p>
                     </li>
                     <li>
-                        <p>Long Lasting Cleaning Power.</p>
+                        <p>Pleasant And Refreshing Fragrances.</p>
                     </li>
                     <li>
-                        <p>Save Time Conserve Water</p>
+                        <p>Quickly Remove Any Stains Or Dirt Accumulation.</p>
                     </li>
-                    <li><p>Leave Utensils Cutlery Clean Sparking</p></li>
+                    <li><p>Eco Friendly.</p></li>
                 </ol>
+                <br>
+                <h4>Additional Information:</h4>
+                <p>Item Code: S15CSC</p>
             </div>
             <div class="col-md-3">
-                <img src="/images/dish-wash-gel.jpeg" alt="dish-wash-gel" style="margin: auto" class="img img-responsive">
+                <img src="/images/carpet-cleaner.jpeg" alt="carpet-cleaner" style="margin: auto" class="img img-responsive">
             </div>
         </div>
     </div>

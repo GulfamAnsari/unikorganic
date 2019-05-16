@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>UnikOrganic - Dish Wash Gel</title>
+    <title>UnikOrganic - Cleaning Liquids</title>
     <?php include($_SERVER['DOCUMENT_ROOT'] . '/head.php'); ?>
 </head>
 
@@ -12,7 +12,7 @@
     <!-- main body -->
     <div class="container">
         <div class="col-md-12">
-            <h1>Dish Wash Gel</h1>
+            <h1>Cleaning Liquids</h1>
             <hr>
             <div class="col-md-9">
                 <h4>Product Details:</h4>
@@ -36,10 +36,10 @@
                                 <p>Sparklean</p>
                             </td>
                             <td>
-                                <p>250 ml</p>
+                                <p>500 ml</p>
                             </td>
                             <td>
-                                <p>Bottle</p>
+                                <p>Can</p>
                             </td>
                         </tr>
                     </tbody>
@@ -47,48 +47,21 @@
 
                 <ol>
                     <li>
-                        <p>Net Content: 250ml</p>
+                        <p>its cleans your toiler bathroom </p>
                     </li>
                     <li>
-                        <p>Best Before: 2 Years from the date of manufacturing</p>
+                        <p>its works to kill germs.</p>
                     </li>
                     <li>
-                        <p>Utensils 4plications: Used Crookery Cutlery, Stainless Steel Appliances.</p>
+                        <p>ite safe handy</p>
                     </li>
                     <li>
-                        <p>Composition. Non Ionic Polymer 15°/c, Ammonium Hydrogen Flouride 15 Al,</p>
+                        <p>its economical </p>
                     </li>
-                    <li>
-                        <p>Blend Of Quaternary Ammonium Compound 6%</p>
-                    </li>
-                </ol>
-                <br>
-                <h4>Features:</h4>
-                <ol>
-                    <li>
-                        <p>Accurate composition</p>
-                    </li>
-                    <li>
-                        <p>Various forms available</p>
-                    </li>
-                </ol>
-                <br>
-                <h4>Benefits:</h4>
-                <ol>
-                    <li>
-                        <p>Improves Sudsing Ninse Ability.</p>
-                    </li>
-                    <li>
-                        <p>Long Lasting Cleaning Power.</p>
-                    </li>
-                    <li>
-                        <p>Save Time Conserve Water</p>
-                    </li>
-                    <li><p>Leave Utensils Cutlery Clean Sparking</p></li>
                 </ol>
             </div>
             <div class="col-md-3">
-                <img src="/images/dish-wash-gel.jpeg" alt="dish-wash-gel" style="margin: auto" class="img img-responsive">
+                <img src="/images/cleaning-liquids.jpeg" alt="cleaning-liquids" style="margin: auto" class="img img-responsive">
             </div>
         </div>
     </div>

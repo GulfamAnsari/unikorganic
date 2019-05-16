@@ -14,16 +14,15 @@
                 <img src="/images/logo.jpeg" class="logo" alt="logo">
                 <ul class="nav navbar-nav">
                     <li><a href="/">Home</a></li>
-                    <li class="dropdown"><a href="#" class="dropbtn" title="Products">Products <i data-toggle="dropdown" class=" dropdown-toggle fa fa-angle-down how-drop" style="font-size:125%" aria-hidden="true"></i></a>
+                    <li class="dropdown"><a href="/products" class="dropbtn" title="Products">Products <i data-toggle="dropdown" class=" dropdown-toggle fa fa-angle-down how-drop" style="font-size:125%" aria-hidden="true"></i></a>
                         <div class="dropdown-content dropdown-menu">
-                            <a href="/products/glass-cleaner.php" title="DroidTechKnow Contact us">Glass Cleaner</a>
-                            <a href="/products/hand-wash.php" title="DroidTechKnow Privacy Policy">Hand Wash</a>
-                            <a href="/products/dish-wash-gel.php" title="DroidTechKnow About">Dish Wash Gel</a>
-                            <a href="/products/multi-purpose-cleaner.php" title="DroidTechKnow About">Multi Purpose Cleaner</a>
-                            <a href="/products/floor-cleaner-neem-phenyl.php" title="DroidTechKnow About">Floor Cleaner Neem Phenyl</a>
+                            <a href="/products/glass-cleaner.php">Glass Cleaner</a>
+                            <a href="/products/hand-wash.php">Hand Wash</a>
+                            <a href="/products/dish-wash-gel.php" >Dish Wash Gel</a>
+                            <a href="/products/multi-purpose-cleaner.php" >Multi Purpose Cleaner</a>
+                            <a href="/products/floor-cleaner-neem-phenyl.php" >Floor Cleaner Neem Phenyl</a>
                         </div>
                     </li>
-                    <li><a href="/toilet-bowl-cleaner">Toilte Bowl Cleaner</a></li>
                     <li><a href="/career">Career</a></li>
                     <li><a href="/contact-us">Contact Us</a></li>
                     <li><a href="/about-us">About Us</a></li>

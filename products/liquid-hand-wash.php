@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>UnikOrganic - Dish Wash Gel</title>
+    <title>UnikOrganic - Liquid Hand Wash</title>
     <?php include($_SERVER['DOCUMENT_ROOT'] . '/head.php'); ?>
 </head>
 
@@ -12,7 +12,7 @@
     <!-- main body -->
     <div class="container">
         <div class="col-md-12">
-            <h1>Dish Wash Gel</h1>
+            <h1>Liquid Hand Was</h1>
             <hr>
             <div class="col-md-9">
                 <h4>Product Details:</h4>
@@ -36,55 +36,42 @@
                                 <p>Sparklean</p>
                             </td>
                             <td>
-                                <p>250 ml</p>
+                                <p>Customized</p>
                             </td>
                             <td>
-                                <p>Bottle</p>
+                                <p>Can</p>
                             </td>
                         </tr>
                     </tbody>
                 </table>
 
+                <p>We are known to offer Liquid Hand Wash. It is processed by expertsusing the premium quality chemical input and advanced technology.</p>
                 <ol>
                     <li>
-                        <p>Net Content: 250ml</p>
+                        <p>Net Content: 5 Litre</p>
                     </li>
                     <li>
                         <p>Best Before: 2 Years from the date of manufacturing</p>
                     </li>
                     <li>
-                        <p>Utensils 4plications: Used Crookery Cutlery, Stainless Steel Appliances.</p>
+                        <p>Applications.. Remove Germs & Bacteria, Clean Dirt & Dust. Dilution Ready To Use.</p>
                     </li>
-                    <li>
-                        <p>Composition. Non Ionic Polymer 15°/c, Ammonium Hydrogen Flouride 15 Al,</p>
-                    </li>
-                    <li>
-                        <p>Blend Of Quaternary Ammonium Compound 6%</p>
-                    </li>
-                </ol>
-                <br>
-                <h4>Features:</h4>
-                <ol>
-                    <li>
-                        <p>Accurate composition</p>
-                    </li>
-                    <li>
-                        <p>Various forms available</p>
-                    </li>
+                    
                 </ol>
                 <br>
                 <h4>Benefits:</h4>
                 <ol>
                     <li>
-                        <p>Improves Sudsing Ninse Ability.</p>
+                        <p>With Antibacterial Effect.</p>
                     </li>
                     <li>
-                        <p>Long Lasting Cleaning Power.</p>
+                        <p>Skin Friendly And No Harsh Chemicals.</p>
                     </li>
                     <li>
-                        <p>Save Time Conserve Water</p>
+                        <p>Distinctive & Refreshing Fragrance With Moisturizer.</p>
                     </li>
-                    <li><p>Leave Utensils Cutlery Clean Sparking</p></li>
+                    <li><p>Leaves Hands Feeling Soft And Smooth.</p></li>
+                    <li><p>Special Soap Free Formulation.</p></li>
                 </ol>
             </div>
             <div class="col-md-3">
