@@ -589,3 +589,24 @@ footer ul .inline-list {
     left: -9999px;
   }
 }
+
+
+/* products */
+
+.products {
+  border: solid 0.5px rgb(236, 235, 235);
+  cursor: pointer;
+  /* box-shadow: 0 0 4px -1px #467448, 0 0 0 0 rgba(120, 0, 0, 0); */
+}
+
+.products img {
+  margin: auto;
+}
+
+.products p {
+  margin: 6px 0 0 0;
+}
+
+@media (max-width: 768px) {
+  
+}
