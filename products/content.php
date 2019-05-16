@@ -10,7 +10,7 @@
         foreach ($data as $obj) {
             ?>
             <div class="col-md-2 products">
-                <a href="/products">
+                <a href="<?php echo ($obj['url']); ?>">
                     <img src="<?php echo ($obj['image']); ?>">
                     <p><?php echo ($obj['name']); ?></p>
                 </a>
