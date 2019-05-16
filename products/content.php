@@ -15,6 +15,7 @@
                     <p><?php echo ($obj['name']); ?></p>
                 </a>
             </div>
+            <div class="col-md-1"></div>
         <?php
     }
     ?>
