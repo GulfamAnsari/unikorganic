@@ -72,7 +72,7 @@
                 </ol>
             </div>
             <div class="col-md-3">
-                <img src="/images/dish-wash-gel.jpeg" alt="dish-wash-gel" style="margin: auto" class="img img-responsive">
+                <img src="/images/hand-wash.jpeg" alt="hand-wash" style="margin: auto" class="img img-responsive">
             </div>
         </div>
     </div>

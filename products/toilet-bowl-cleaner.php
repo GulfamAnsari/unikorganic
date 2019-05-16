@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>UnikOrganic - Floor Cleaner Neem Phenyl</title>
+    <title>UnikOrganic - Toilet Bowl Cleaner</title>
     <?php include($_SERVER['DOCUMENT_ROOT'] . '/head.php'); ?>
 </head>
 
@@ -12,7 +12,7 @@
     <!-- main body -->
     <div class="container">
         <div class="col-md-12">
-            <h1>Floor Cleaner Neem Phenyl</h1>
+            <h1>Toilet Bowl Cleaner</h1>
             <hr>
             <div class="col-md-9">
                 <h4>Product Details:</h4>
@@ -23,7 +23,7 @@
                                 <p>Brand</p>
                             </th>
                             <th>
-                                <p>Quality Pack Size</p>
+                                <p>Pack Size (litres)</p>
                             </th>
                             <th>
                                 <p>Pack Type</p>
@@ -39,50 +39,41 @@
                                 <p>Customized</p>
                             </td>
                             <td>
-                                <p>Bottle, Can</p>
+                                <p>Plastic Bottle</p>
                             </td>
                         </tr>
                     </tbody>
                 </table>
-                <p>We are involved in providing a varied series of Floor Cleaner, Our products are made under the management of dexterous experts in compliance with universal industry principles.</p>
                 <ol>
-                    <li>
-                        <p>Applications Hard surfaces, Shiney floors, Polished Marbles,</p>
-                    </li>
-                    <li>
-                        <p>Tiles, Granites etc with pleasent fragrance.</p>
-                    </li>
-                    <li>
-                        <p>ready to use lite green colour</p>
-                    </li>
-                    <li>
-                        <p>For heavy flooring 100-200 ml in 1Litre water</p>
-                    </li>
                     <li>
                         <p>Net Content: 5 Litre</p>
                     </li>
-                    <li><p>Best Before: 2 Years from the date of manufacturing</p></li>
+                    <li>
+                        <p>Best Before: 2 Years from the date of manufacturing</p>
+                    </li>
+                    <li>
+                        <p>Application: Directly apply on Toilet bolls</p>
+                    </li>
+                    <li>
+                        <p>Dilutions: Ready to use</p>
+                    </li>
                 </ol>
                 <br>
                 <h4>Benefits:</h4>
                 <ol>
                     <li>
-                        <p>Concentrated For Economical Use.</p>
+                        <p>Ideally Formulated for Exteneded Contact time</p>
                     </li>
                     <li>
-                        <p>Pleasant And Refreshing Fragrances</p>
+                        <p>Squeeze Bottle with Directional Spout Makes it Easy and Fast.</p>
                     </li>
-                    <li>
-                        <p>Sanitizes The Object After Cleaning.</p>
-                    </li>
-                    <li><p>Quickly Remove Any Stains Or Dirt Accumulation.</p></li>
-                    <li><p>Sate For Use On All Washable Hard Surface.</p></li>
                 </ol>
+                <br>
                 <h4>Additional Information:</h4>
-                <p>Item Code: S1F</p>
+                <p>Item Code: S4T</p>
             </div>
             <div class="col-md-3">
-                <img src="/images/floor-cleaner-neem-phenyl.jpeg" alt="floor-cleaner-neem-phenyl" style="margin: auto" class="img img-responsive">
+                <img src="/images/toilet-bowl-cleaner.jpeg" alt="toilet-bowl-cleaner" style="margin: auto" class="img img-responsive">
             </div>
         </div>
     </div>
