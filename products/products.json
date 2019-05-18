@@ -5,9 +5,9 @@
         "url": "/products/carpet-cleaner.php"
     },
     {
-        "name": "Cleaning Liquids",
-        "image": "/images/cleaning-liquids.jpeg",
-        "url": "/products/cleaning-liquids.php"
+        "name": "Multi Purpose Cleaner",
+        "image": "/images/multi-purpose-cleaner.jpeg",
+        "url": "/products/multi-purpose-cleaner.php"
     },
     {
         "name": "Dish wash gel",
@@ -15,24 +15,9 @@
         "url": "/products/dish-wash-gel.php"
     },
     {
-        "name": "Disinfectant Floor Cleaner",
-        "image": "/images/disinfectant-floor-cleaner.jpeg",
-        "url": "/products/disinfectant-floor-cleaner.php"
-    },
-    {
-        "name": "Floor Cleaner Neem Phenyl",
-        "image": "/images/floor-cleaner-neem-phenyl.jpeg",
-        "url": "/products/floor-cleaner-neem-phenyl.php"
-    },
-    {
         "name": "Glass Cleaner",
         "image": "/images/glass-cleaner.jpeg",
         "url": "/products/glass-cleaner.php"
-    },
-    {
-        "name": "Hand Soap Liquid",
-        "image": "/images/hand-soap-liquid.jpeg",
-        "url": "/products/hand-soap-liquid.php"
     },
     {
         "name": "Hand Wash",
@@ -40,19 +25,33 @@
         "url": "/products/hand-wash.php"
     },
     {
+        "name": "Hand Soap Liquid",
+        "image": "/images/hand-soap-liquid.jpeg",
+        "url": "/products/hand-soap-liquid.php"
+    },
+    {
+        "name": "Disinfectant Floor Cleaner",
+        "image": "/images/disinfectant-floor-cleaner.jpeg",
+        "url": "/products/disinfectant-floor-cleaner.php"
+    },
+    {
+        "name": "Cleaning Liquids",
+        "image": "/images/cleaning-liquids.jpeg",
+        "url": "/products/cleaning-liquids.php"
+    },
+    {
+        "name": "Floor Cleaner Neem Phenyl",
+        "image": "/images/floor-cleaner-neem-phenyl.jpeg",
+        "url": "/products/floor-cleaner-neem-phenyl.php"
+    },
+    {
         "name": "Liquid Hand Wash",
         "image": "/images/liquid-hand-wash.jpeg",
         "url": "/products/liquid-hand-wash.php"
-    },
-    {
-        "name": "Multi Purpose Cleaner",
-        "image": "/images/multi-purpose-cleaner.jpeg",
-        "url": "/products/multi-purpose-cleaner.php"
     },
     {
         "name": "Surface Cleaner",
         "image": "/images/surface-cleaner.jpeg",
         "url": "/products/surface-cleaner.php"
     }
-    
 ]

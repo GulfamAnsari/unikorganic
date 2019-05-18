@@ -590,24 +590,40 @@ footer ul .inline-list {
   }
 }
 
-
 /* products */
-
+.all-products {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
 .products {
-  border: solid 0.5px rgb(236, 235, 235);
+  border: solid 1px rgb(0,0,0);
   cursor: pointer;
   padding: 1px;
+  width: 22%;
+  margin: 16px 0;
+  position: relative;
   /* box-shadow: 0 0 4px -1px #467448, 0 0 0 0 rgba(120, 0, 0, 0); */
 }
 
 .products img {
   margin: auto;
+  height: 100%;
+  width: 100%;
 }
 
 .products p {
-  margin: 6px 0 0 0;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  text-align: center;
+  padding: 4px 0;
 }
 
 @media (max-width: 768px) {
-  
 }
