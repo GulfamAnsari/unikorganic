@@ -1,6 +1,6 @@
 <footer>
     <div class="container">
-        <div class="col-sm-3 ">
+        <div class="col-sm-4">
             <h3 class="webTool">Company Information</h3>
             <p><span class="fa fa-home"></span> Address:- Flat No. 130, 3rd Floor, Pkt.-19, Sec. 24 Rohini New Delhi - 110085 </p>
             <p>Manufacturing Plant:- D-143, Sec.5, Bawana, New Delhi/ M-158, Sec.-5, Bawana </p>
@@ -8,12 +8,12 @@
             <p><span class="fa fa-phone"></span> Phone:- +91 9718724111</p>
             <p><span class="fa fa-envelope"></span> Email ID:- info@unikorganic.in</span></p>
         </div>
-        <div class="col-sm-6">
+        <div class="col-sm-4">
             <h3></i> Our Company Mission</h3>
             <p>To be a true leader in the bearing industry, by expanding into more automotive and industrial markets and enabling everyone to be eligible for our services.</p>
             <p>To offer bearing industry with superior products & services by building up value for our customers, our business, as well as our employees and adopting Principles of Excellence that provides an effective corporate governance framework.</p>
         </div>
-        <div class="col-sm-3">
+        <div class="col-sm-4">
             <h3>Our Products</h3>
             <ul class="web">
                 <p>

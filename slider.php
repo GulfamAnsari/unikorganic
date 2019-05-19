@@ -3,7 +3,18 @@
         < </a> <a class="nextarrow"> >
     </a>
     <ul>
-        <li><img src="images/slider1.jpg" alt="slider1" border="0"></li>
-        <li><img src="images/slider2.jpg" alt="slider2" border="0"></li>
+        <?php
+        $strJsonFileContents = file_get_contents($_SERVER['DOCUMENT_ROOT'] . "/products/products.json");
+        // Convert to array 
+        $data = json_decode($strJsonFileContents, true);
+        $data = array_slice($data, 0, 4);
+        foreach ($data as $obj) {
+            ?>
+            <li><a href="<?php echo ($obj['url']); ?>">
+                <img  src="<?php  echo ($obj['image']);?>" border="0">
+            </a></li>
+        <?php
+    }
+    ?>
     </ul>
 </div>

@@ -316,7 +316,7 @@ nav #myNavbar ul li .dropdown-content a:hover:after {
 }
 
 img {
-  width: 100%;
+  width: 30%;
 }
 
 #carousel {
@@ -626,4 +626,7 @@ footer ul .inline-list {
 }
 
 @media (max-width: 768px) {
+  .products {
+    width: 100%;
+  }
 }
