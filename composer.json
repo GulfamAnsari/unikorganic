@@ -1,0 +1,12 @@
+{
+    "name": "unikorganicsolutions",
+    "description": "My first Composer project",
+    "authors": [
+        {
+            "name": "Gulfam"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    }
+}
