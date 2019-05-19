@@ -1,12 +1,7 @@
 {
-    "name": "unikorganicsolutions",
-    "description": "My first Composer project",
-    "authors": [
-        {
-            "name": "Gulfam"
-        }
-    ],
+    "name": "unikorgain/solutions",
+    "description": "First composer.json",
+    "type": "project",
     "minimum-stability": "dev",
-    "require": {
-    }
+    "require": {}
 }
