@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>UnikOrganic - Enquiry</title>
+    <title>UnikOrganic - Career</title>
     <?php include($_SERVER['DOCUMENT_ROOT'] . '/head.php'); ?>
 </head>
 
@@ -13,22 +13,21 @@
     <div class="container">
         <div class="col-md-12">
             <?php
-            if (isset($_POST['submitContact'])) {
+            if (isset($_POST['submitCv'])) {
                 $to = "gulfamansari1515@gmail.com"; // this is your Email address  // hr.unikorganic@gmail.com
                 $from = $_POST['userEmail']; // this is the sender's Email address
                 $name = $_POST['userName'];
                 $phone = $_POST['phone'];
-                $address = $_POST['address'];
                 $subject = "Form submission";
                 $subject2 = "Copy of your form submission";
-                $message = "New Enquiry"
+                $applyFor = $_POST['applyFor'];
+                $message = "New Enquiry \n"
                     . "\n\n Name: " . $_POST['userName'] 
                     . "\n\n Email: " . $_POST['userEmail'] 
-                    . "\n\n Phone number: " . $_POST['phone'] 
-                    . "\n\n Address: " . $_POST['address'] 
-                    . "\n\n Message" . $_POST['message'];
-                $message2 = "Here is a copy of your message " . $name . "\n\n" . $_POST['message'];
-
+                    . "\n\n Phone number: " . $_POST['phone']
+                    . "\n\n Apply for: " . $_POST['applyFor'];
+                $message2 = "Thanks for submitting your application";
+                echo $message;
                 $headers = "From:" . $from;
                 $headers2 = "From:" . $to;
                 mail($to, $subject, $message, $headers);
