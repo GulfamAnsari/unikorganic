@@ -14,6 +14,7 @@
                 <a href="/"><img src="/images/logo.jpeg" class="logo" alt="logo"></a>
                 <ul class="nav navbar-nav">
                     <li><a href="/">Home</a></li>
+                    <li><a href="/about-us">About Us</a></li>
                     <li class="dropdown"><a href="/products" class="dropbtn" title="Products">Products <i data-toggle="dropdown" class=" dropdown-toggle fa fa-angle-down how-drop" style="font-size:125%" aria-hidden="true"></i></a>
                         <div class="dropdown-content dropdown-menu">
                             <a href="/products/glass-cleaner.php">Glass Cleaner</a>
@@ -26,7 +27,7 @@
                     </li>
                     <li><a href="/career">Career</a></li>
                     <li><a href="/contact-us">Contact Us</a></li>
-                    <li><a href="/about-us">About Us</a></li>
+                    <li><a href="/enquiry">Enquiry</a></li>
                 </ul>
             </div>
         </div>
