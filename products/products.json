@@ -15,6 +15,31 @@
         "url": "/products/dish-wash-gel.php"
     },
     {
+        "name": "Foam Soap",
+        "image": "/images/foam-soap.jpeg",
+        "url": "/products/foam-soap.php"
+    },
+    {
+        "name": "Liquid Detergent",
+        "image": "/images/liquid-detergent.jpeg",
+        "url": "/products/liquid-detergent.php"
+    },
+    {
+        "name": "Scale Remover",
+        "image": "/images/scale-remover.jpeg",
+        "url": "/products/scale-remover.php"
+    },
+    {
+        "name": "Oven And Grill Cleaner",
+        "image": "/images/oven-and-grill-cleaner.jpeg",
+        "url": "/products/oven-and-grill-cleaner.php"
+    },
+    {
+        "name": "Toilet Bowl Cleaner",
+        "image": "/images/toilet-bowl-cleaner.jpeg",
+        "url": "/products/toilet-bowl-cleaner.php"
+    },
+    {
         "name": "Glass Cleaner",
         "image": "/images/glass-cleaner.jpeg",
         "url": "/products/glass-cleaner.php"
