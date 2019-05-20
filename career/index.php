@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>UnikOrganic</title>
+    <title>Unik Corporate</title>
     <?php include($_SERVER['DOCUMENT_ROOT'] . '/head.php'); ?>
 </head>
 
