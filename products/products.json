@@ -50,6 +50,16 @@
         "url": "/products/hand-wash.php"
     },
     {
+        "name": "Hand Wash",
+        "image": "/images/hand-wash2.jpeg",
+        "url": "/products/hand-wash.php"
+    },
+    {
+        "name": "Hand Wash",
+        "image": "/images/hand-wash3.jpeg",
+        "url": "/products/hand-wash.php"
+    },
+    {
         "name": "Hand Soap Liquid",
         "image": "/images/hand-soap-liquid.jpeg",
         "url": "/products/hand-soap-liquid.php"

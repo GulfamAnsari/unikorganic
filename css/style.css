@@ -176,6 +176,7 @@ header > div > .header-social-icon {
 
 .navbar-nav {
   float: right;
+  padding: 1rem 0;
 }
 
 /* This is predefiend navigation bar padding */
@@ -226,11 +227,26 @@ nav #myNavbar ul li a:hover:after {
   width: 100%;
 }
 
-.logo {
+.logo2 {
   float: left;
+  width: 13rem;
+  height: 7rem;
+}
+
+.logo {
+  float: right;
   width: 6rem;
   height: 6rem;
   border-radius: 50%;
+}
+
+.logo-text {
+  text-transform: capitalize;
+  color: #40a105;
+  display: inline-block;
+  padding: 2rem 1rem;
+  font-weight: bold;
+  font-size: 2rem;
 }
 
 @media (max-width: 768px) {
@@ -241,13 +257,17 @@ nav #myNavbar ul li a:hover:after {
 
   .navbar-nav {
     float: left;
+    padding: 0;
   }
-  .logo {
+  .logo2 {
     position: absolute;
     top: 8px;
     right: 8px;
     height: 4rem;
     width: 4rem;
+  }
+  .logo, .logo-text {
+    display: none;
   }
 }
 

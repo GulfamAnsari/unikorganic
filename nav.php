@@ -11,7 +11,10 @@
         </div>
         <div>
             <div class="collapse navbar-collapse" id="myNavbar">
-                <a href="/"><img src="/images/logo.jpeg" class="logo" alt="logo"></a>
+                <a href="/">
+                    <img src="/images/logo2.png" class="logo2" alt="logo">
+                    <p class="logo-text">Unik corporate solutions pvt ltd</p>
+                </a>
                 <ul class="nav navbar-nav">
                     <li><a href="/">Home</a></li>
                     <li><a href="/about-us">About Us</a></li>
@@ -19,15 +22,16 @@
                         <div class="dropdown-content dropdown-menu">
                             <a href="/products/glass-cleaner.php">Glass Cleaner</a>
                             <a href="/products/hand-wash.php">Hand Wash</a>
-                            <a href="/products/dish-wash-gel.php" >Dish Wash Gel</a>
-                            <a href="/products/multi-purpose-cleaner.php" >Multi Purpose Cleaner</a>
-                            <a href="/products/floor-cleaner-neem-phenyl.php" >Floor Cleaner Neem Phenyl</a>
-                            <a href="/products" >More Products</a>
+                            <a href="/products/dish-wash-gel.php">Dish Wash Gel</a>
+                            <a href="/products/multi-purpose-cleaner.php">Multi Purpose Cleaner</a>
+                            <a href="/products/floor-cleaner-neem-phenyl.php">Floor Cleaner Neem Phenyl</a>
+                            <a href="/products">More Products</a>
                         </div>
                     </li>
                     <li><a href="/career">Career</a></li>
                     <li><a href="/contact-us">Contact Us</a></li>
                     <li><a href="/enquiry">Enquiry</a></li>
+                    <li><a href="/" style="    padding: 0 8px;"><img src="/images/logo.jpeg" class="logo" alt="logo"></a></li>
                 </ul>
             </div>
         </div>
