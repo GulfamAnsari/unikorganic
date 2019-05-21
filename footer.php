@@ -6,7 +6,7 @@
             <p>Manufacturing Plant:- D-143, Sec.5, Bawana, New Delhi/ M-158, Sec.-5, Bawana </p>
             <p>Regd. Address :- D-74, Anandpur Dham, Karala, New Delhi - 110081</p>
             <p><span class="fa fa-phone"></span> Phone:- +91 9718724111</p>
-            <p><span class="fa fa-envelope"></span> Email ID:- info@unikorganic.in</span></p>
+            <p><span class="fa fa-envelope"></span> Email ID:- unikorganic@gmail.com</span></p>
         </div>
         <div class="col-sm-4">
             <h3></i> Our Company Mission</h3>
