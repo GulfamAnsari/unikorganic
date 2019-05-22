@@ -7,7 +7,7 @@
         $strJsonFileContents = file_get_contents($_SERVER['DOCUMENT_ROOT'] . "/products/products.json");
         // Convert to array 
         $data = json_decode($strJsonFileContents, true);
-        $data = array_slice($data, 0, 4);
+        // $data = array_slice($data, 0, 4);
         foreach ($data as $obj) {
             ?>
             <li><a href="<?php echo ($obj['url']); ?>">
